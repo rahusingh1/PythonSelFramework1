@@ -1,0 +1,93 @@
+2021-10-10 16:51:55,439 : INFO : test_e2e : getting all the card titles
+2021-10-10 16:51:55,650 : INFO : test_e2e : iphone X
+2021-10-10 16:51:55,681 : INFO : test_e2e : Samsung Note 8
+2021-10-10 16:51:55,715 : INFO : test_e2e : Nokia Edge
+2021-10-10 16:51:55,764 : INFO : test_e2e : Blackberry
+2021-10-10 16:55:28,885 : INFO : test_e2e : getting all the card titles
+2021-10-10 16:55:28,941 : INFO : test_e2e : iphone X
+2021-10-10 16:55:28,994 : INFO : test_e2e : Samsung Note 8
+2021-10-10 16:55:29,018 : INFO : test_e2e : Nokia Edge
+2021-10-10 16:55:29,042 : INFO : test_e2e : Blackberry
+2021-10-10 16:55:29,612 : INFO : test_e2e : Entering country name as ind
+2021-10-10 16:55:35,903 : INFO : test_e2e : Text received from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2021-10-10 16:59:47,900 : INFO : test_formSubmission : first name is rahul
+2021-10-10 16:59:48,596 : INFO : test_formSubmission : first name is Anshika
+2021-10-10 16:59:48,596 : INFO : test_formSubmission : first name is Anshika
+2021-10-10 16:59:56,366 : INFO : test_e2e : getting all the card titles
+2021-10-10 16:59:56,416 : INFO : test_e2e : iphone X
+2021-10-10 16:59:56,447 : INFO : test_e2e : Samsung Note 8
+2021-10-10 16:59:56,478 : INFO : test_e2e : Nokia Edge
+2021-10-10 16:59:56,516 : INFO : test_e2e : Blackberry
+2021-10-10 16:59:56,893 : INFO : test_e2e : Entering country name as ind
+2021-10-10 17:00:02,326 : INFO : test_e2e : Text received from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2021-10-10 17:10:19,145 : INFO : test_formSubmission : first name is rahul
+2021-10-10 17:10:20,160 : INFO : test_formSubmission : first name is Anshika
+2021-10-10 17:10:20,160 : INFO : test_formSubmission : first name is Anshika
+2021-10-10 17:10:29,894 : INFO : test_e2e : getting all the card titles
+2021-10-10 17:10:29,962 : INFO : test_e2e : iphone X
+2021-10-10 17:10:29,996 : INFO : test_e2e : Samsung Note 8
+2021-10-10 17:10:30,028 : INFO : test_e2e : Nokia Edge
+2021-10-10 17:10:30,062 : INFO : test_e2e : Blackberry
+2021-10-10 17:10:30,383 : INFO : test_e2e : Entering country name as ind
+2021-10-10 17:10:35,988 : INFO : test_e2e : Text received from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2021-10-10 17:54:18,171 : INFO : test_formSubmission : first name is rahul
+2021-10-10 17:54:19,220 : INFO : test_formSubmission : first name is Anshika
+2021-10-10 17:54:19,220 : INFO : test_formSubmission : first name is Anshika
+2021-10-10 17:54:26,657 : INFO : test_e2e : getting all the card titles
+2021-10-10 17:54:26,722 : INFO : test_e2e : iphone X
+2021-10-10 17:54:26,752 : INFO : test_e2e : Samsung Note 8
+2021-10-10 17:54:26,782 : INFO : test_e2e : Nokia Edge
+2021-10-10 17:54:26,813 : INFO : test_e2e : Blackberry
+2021-10-10 17:54:27,187 : INFO : test_e2e : Entering country name as ind
+2021-10-10 17:54:33,342 : INFO : test_e2e : Text received from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2021-10-10 17:55:50,667 : INFO : test_formSubmission : first name is rahul
+2021-10-10 17:55:51,612 : INFO : test_formSubmission : first name is Anshika
+2021-10-10 17:55:51,612 : INFO : test_formSubmission : first name is Anshika
+2021-10-10 17:55:59,030 : INFO : test_e2e : getting all the card titles
+2021-10-10 17:55:59,093 : INFO : test_e2e : iphone X
+2021-10-10 17:55:59,140 : INFO : test_e2e : Samsung Note 8
+2021-10-10 17:55:59,172 : INFO : test_e2e : Nokia Edge
+2021-10-10 17:55:59,210 : INFO : test_e2e : Blackberry
+2021-10-10 17:55:59,518 : INFO : test_e2e : Entering country name as ind
+2021-10-10 17:56:05,118 : INFO : test_e2e : Text received from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2021-10-17 14:16:31,135 : INFO : test_formSubmission : first name is rahul
+2021-10-17 14:16:32,631 : INFO : test_formSubmission : first name is Anshika
+2021-10-17 14:16:32,631 : INFO : test_formSubmission : first name is Anshika
+2021-10-17 14:19:01,158 : INFO : test_e2e : getting all the card titles
+2021-10-17 14:19:01,260 : INFO : test_e2e : iphone X
+2021-10-17 14:19:01,291 : INFO : test_e2e : Samsung Note 8
+2021-10-17 14:19:01,324 : INFO : test_e2e : Nokia Edge
+2021-10-17 14:19:01,356 : INFO : test_e2e : Blackberry
+2021-10-17 14:19:01,796 : INFO : test_e2e : Entering country name as ind
+2021-10-17 14:19:07,713 : INFO : test_e2e : Text received from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2021-10-17 14:20:53,054 : INFO : test_formSubmission : first name is rahul
+2021-10-17 14:20:54,183 : INFO : test_formSubmission : first name is Anshika
+2021-10-17 14:20:54,183 : INFO : test_formSubmission : first name is Anshika
+2021-10-17 14:21:12,330 : INFO : test_e2e : getting all the card titles
+2021-10-17 14:21:12,448 : INFO : test_e2e : iphone X
+2021-10-17 14:21:12,491 : INFO : test_e2e : Samsung Note 8
+2021-10-17 14:21:12,533 : INFO : test_e2e : Nokia Edge
+2021-10-17 14:21:12,588 : INFO : test_e2e : Blackberry
+2021-10-17 14:21:12,956 : INFO : test_e2e : Entering country name as ind
+2021-10-17 14:21:18,756 : INFO : test_e2e : Text received from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2021-10-17 14:23:29,903 : INFO : test_e2e : getting all the card titles
+2021-10-17 14:23:30,047 : INFO : test_e2e : iphone X
+2021-10-17 14:23:30,092 : INFO : test_e2e : Samsung Note 8
+2021-10-17 14:23:30,136 : INFO : test_e2e : Nokia Edge
+2021-10-17 14:23:30,177 : INFO : test_e2e : Blackberry
+2021-10-17 14:23:30,595 : INFO : test_e2e : Entering country name as ind
+2021-10-17 14:23:56,594 : INFO : test_e2e : getting all the card titles
+2021-10-17 14:23:56,679 : INFO : test_e2e : iphone X
+2021-10-17 14:23:56,728 : INFO : test_e2e : Samsung Note 8
+2021-10-17 14:23:56,778 : INFO : test_e2e : Nokia Edge
+2021-10-17 14:23:56,832 : INFO : test_e2e : Blackberry
+2021-10-17 14:23:57,239 : INFO : test_e2e : Entering country name as ind
+2021-10-17 14:24:03,049 : INFO : test_e2e : Text received from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
