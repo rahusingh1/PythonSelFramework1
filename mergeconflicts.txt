@@ -3,9 +3,6 @@ a
 b
 c
 d
-f
-g
-i
 
 Numbers
 1
